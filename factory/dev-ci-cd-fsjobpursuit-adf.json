@@ -1,0 +1,9 @@
+{
+	"name": "dev-ci-cd-fsjobpursuit-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f9f249e-ca68-4ca9-8814-4c7343a73df3",
+		"tenantId": "4d5de1e4-df78-4ef2-b234-632aa4f9b970"
+	}
+}
